@@ -1,0 +1,3 @@
+[submodule "libs/tsai"]
+	path = libs/tsai
+	url = https://github.com/pgtinsley/tsai.git
